@@ -1,0 +1,29 @@
+#mainContent {
+  border: 1px solid red;
+  background-color: rgb(255,230,230);
+}
+.queueView {
+  border: 1px blue dotted;
+  background-color: rgb(230, 230, 230 )
+}
+
+div {
+  font-size: 18pt;
+}
+#patientWaitingApp {
+  background-color: white;
+  border: 2px solid rgb(200, 200,200);
+  padding: 6px;
+  margin: 6px;
+}
+
+.patientWaiting{
+  background-color: white;
+  margin: 6px;
+  padding: 6px;
+  border:2px solid rgb(200,200,200);
+}
+.patientName{
+font-weight: bold;
+
+}
