@@ -1,0 +1,46 @@
+[
+{
+ "patientGuid":"123",
+  "firstName":"John",
+  "lastName":"Doe",
+  "dob":"2012-09-01",
+  "sexAtBirth":"M",
+  "visitID":"123-01",
+  "visitDescription":"Broken finger",
+  "visitDateUtc":"2019-06-01 04:52:57 PM",
+  "priority":"High"
+},
+{
+ "patientGuid":"124",
+  "firstName":"Johnny",
+  "lastName":"Doey",
+  "dob":"2012-09-04",
+  "sexAtBirth":"M",
+  "visitID":"124-01",
+  "visitDescription":"A cut in the leg",
+  "visitDateUtc":"2019-07-01 04:52:57 PM",
+  "priority":"Medium"
+},
+{
+ "patientGuid":"125",
+  "firstName":"Hanny",
+  "lastName":"Dem",
+  "dob":"2012-09-05",
+  "sexAtBirth":"F",
+  "visitID":"125-01",
+  "visitDescription":"Seasonal Allergies",
+  "visitDateUtc":"2019-08-01 04:52:57 PM",
+  "priority":"Low"
+},
+{
+ "patientGuid":"126",
+  "firstName":"Lanny",
+  "lastName":"Demy",
+  "dob":"2012-09-05",
+  "sexAtBirth":"F",
+  "visitID":"126-01",
+  "visitDescription":"Stomach Tumor",
+  "visitDateUtc":"2019-09-01 04:52:57 PM",
+  "priority":"High"
+}
+]
