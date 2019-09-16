@@ -7,23 +7,28 @@
   background-color: rgb(230, 230, 230 )
 }
 
-div {
-  font-size: 18pt;
-}
-#patientWaitingApp {
-  background-color: white;
-  border: 2px solid rgb(200, 200,200);
-  padding: 6px;
-  margin: 6px;
-}
-
 .patientWaiting{
   background-color: white;
   margin: 6px;
   padding: 6px;
-  border:2px solid rgb(200,200,200);
+  border-width: 3px;
+  border-style :solid;
 }
 .patientName{
 font-weight: bold;
 
+}
+.HighPriority{
+border-color: red;
+border-left-width: 8px;
+}
+
+.MediumPriority{
+border-color: orange;
+border-left-width: 8px;
+}
+
+.LowPriority{
+border-color: blue;
+border-left-width: 8px;
 }
