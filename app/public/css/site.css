@@ -1,34 +1,35 @@
 #mainContent {
-  border: 1px solid red;
-  background-color: rgb(255,230,230);
-}
-.queueView {
-  border: 1px blue dotted;
-  background-color: rgb(230, 230, 230 )
+  /* border: 1px red solid; */
+  /* background-color: rgb(255,230,230); */
 }
 
-.patientWaiting{
+.queueView {
+  border: 2px black solid;
+  background-color: rgb(230,230,230);
+}
+
+.patientWaiting {
   background-color: white;
   margin: 6px;
   padding: 6px;
-  border-width: 3px;
-  border-style :solid;
-}
-.patientName{
-font-weight: bold;
-
-}
-.HighPriority{
-border-color: red;
-border-left-width: 8px;
+  border: 2px solid rgb(200,200,200);
 }
 
-.MediumPriority{
-border-color: orange;
-border-left-width: 8px;
+.patientName {
+  font-weight: bold;
 }
 
-.LowPriority{
-border-color: blue;
-border-left-width: 8px;
+.highPriority {
+  border-left-color: red;
+  border-left-width: 6px;
+}
+
+.mediumPriority {
+  border-left-color: orange;
+  border-left-width: 6px;
+}
+
+.lowPriority {
+  border-left-color: blue;
+  border-left-width: 6px;
 }
